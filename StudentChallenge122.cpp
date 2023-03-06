@@ -1,4 +1,4 @@
-//Finding multiple missing elements in an array!
+//Abdul Bari Student Challenge 122 Finding multiple missing elements in an array!
 #include<iostream>
 using namespace std;
 
